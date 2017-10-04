@@ -10,5 +10,6 @@
   <modules>
     <module>bh</module>
     <module>tag</module>
+    <module>mvnPropTest</module>
   </modules>
 </project>
