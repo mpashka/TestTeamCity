@@ -30,7 +30,7 @@ public class ClasspathTest {
             log.info("    {}", url);
         }
 
-        Thread.sleep(10000000000L);
+//        Thread.sleep(10000000000L);
     }
 
     private void debugClassloder(ClassLoader classLoader) {
