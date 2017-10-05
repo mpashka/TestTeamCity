@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.mycompany.app</groupId>
-    <artifactId>bh</artifactId>
+    <artifactId>my-app-root</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
   <artifactId>my-app-bh</artifactId>
