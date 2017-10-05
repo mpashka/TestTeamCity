@@ -8,7 +8,6 @@
   </parent>
   <artifactId>my-app-bh</artifactId>
   <packaging>war</packaging>
-  <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
