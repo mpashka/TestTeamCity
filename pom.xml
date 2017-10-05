@@ -29,7 +29,7 @@
                     <configuration>
                         <archive>
                             <manifestEntries>
-                                <Docker-Tag>${docker.image.tag}</docker-image-tag>
+                                <Docker-Tag>${docker.image.tag}</Docker-Tag>
                                 <Build-Number>${build.number}</Build-Number>
                                 <GIT-Revision>${build.vcs.number}</GIT-Revision>
                             </manifestEntries>
